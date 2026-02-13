@@ -9,6 +9,7 @@ import { Pantalla6 } from './src/Screens/Pantalla6';
 import { Pantalla7 } from './src/Screens/Pantalla7';
 import { Pantalla8 } from './src/Screens/Pantalla8';
 import { Pantalla9 } from './src/Screens/Pantalla9';
+import { Ejercicio1 } from './src/Screens/Ejercicio1';
 
 const App = () => {
   return (
@@ -21,7 +22,8 @@ const App = () => {
     {/* <Pantalla6/> */}
     {/* <Pantalla7/> */}
     {/* <Pantalla8/> */}
-    <Pantalla9/>
+    {/* <Pantalla9/> */}
+    <Ejercicio1/>
     
     </SafeAreaView>
   )
