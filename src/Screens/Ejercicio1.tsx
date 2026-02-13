@@ -27,11 +27,14 @@ const numImpares = arreglo.map((num: number) => {
 const styles= StyleSheet.create({
     container:{
         flex:1,
-        backgroundColor:'#15977b',
+        backgroundColor:'#b2d41a',
         justifyContent:'center',
-        alignItems:'center'
+        
     },
     boxblu:{
-        fontSize:30
+        fontSize:30,
+        color:'black',
+        textAlign:'center',
+        marginBottom:20,
     }
 })
